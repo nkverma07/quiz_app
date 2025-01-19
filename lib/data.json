@@ -1,0 +1,312 @@
+[{
+    "id": 60,
+    "description": "",
+    "difficulty_level": null,
+    "topic": "The Molecular Basis of Inheritance",
+    "is_published": true,
+    "duration": 15,
+    "negative_marks": "1.0",
+    "correct_answer_marks": "4.0",
+    "shuffle": true,
+    "questions": [{
+        "id": 3342,
+        "description": "If the base sequence in DNA is 5' AAAT 3' then the base sequence in mRNA is :",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13379,
+            "description": "5'UUUU3'",
+            "question_id": 3342,
+            "is_correct": false
+        }, {
+            "id": 13380,
+            "description": "3'UUUU5'",
+            "question_id": 3342,
+            "is_correct": false
+        }, {
+            "id": 13381,
+            "description": "5'AAAU3'",
+            "question_id": 3342,
+            "is_correct": true
+        }, {
+            "id": 13382,
+            "description": "3'AAAU5'",
+            "question_id": 3342,
+            "is_correct": false
+        }]
+        
+    }, {
+        "id": 3315,
+        "description": "Avery, MacLeod and Mc Carty used the S(virulent) and R (avirulent) strains of streptococcus pneumoniae. They isolated and purified protein, DNA, RNA from the bacteria and treated them with related enzymes. They concluded that :",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13271,
+            "description": "DNA was transforming agent",
+            "question_id": 3315,
+            "is_correct": true
+        }, {
+            "id": 13272,
+            "description": "RNA was transforming agent",
+            "question_id": 3315,
+            "is_correct": false
+        }, {
+            "id": 13273,
+            "description": "Protein was transforming agent",
+            "question_id": 3315,
+            "is_correct": false
+        }, {
+            "id": 13274,
+            "description": "All are correct",
+            "question_id": 3315,
+            "is_correct": false
+        }]
+        
+    }, {
+        "id": 3381,
+        "description": "Identify the characteristic which is not applicable to the genetic code:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13535,
+            "description": "Non-Polar",
+            "question_id": 3381,
+            "is_correct": true
+        }, {
+            "id": 13536,
+            "description": "Non-Overlapping",
+            "question_id": 3381,
+            "is_correct": false
+        }, {
+            "id": 13537,
+            "description": "Commaless",
+            "question_id": 3381,
+            "is_correct": false
+        }, {
+            "id": 13538,
+            "description": "Universal",
+            "question_id": 3381,
+            "is_correct": false
+        }]
+        
+    }, {
+        "id": 3295,
+        "description": "Ribose is differentiable from deoxyribose in having :",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13191,
+            "description": "Two extra oxygen",
+            "question_id": 3295,
+            "is_correct": false
+        }, {
+            "id": 13192,
+            "description": "No oxygen",
+            "question_id": 3295,
+            "is_correct": false
+        }, {
+            "id": 13193,
+            "description": "Hydroxyl group at 2nd carbon",
+            "question_id": 3295,
+            "is_correct": true
+        }, {
+            "id": 13194,
+            "description": "One extra hydrogen",
+            "question_id": 3295,
+            "is_correct": false
+        }]
+    
+    }, {
+        "id": 3356,
+        "description": "A DNA strand is directly involved in the synthesis of all the following except:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        
+        "options": [{
+            "id": 13435,
+            "description": "Another DNA",
+            "question_id": 3356,
+            "is_correct": false
+        }, {
+            "id": 13436,
+            "description": "t-RNA & m-RNA",
+            "question_id": 3356,
+            "is_correct": false
+        }, {
+            "id": 13437,
+            "description": "r-RNA",
+            "question_id": 3356,
+            "is_correct": false
+        }, {
+            "id": 13438,
+            "description": "Protein",
+            "question_id": 3356,
+            "is_correct": true
+            
+        }]
+        
+    }, {
+        "id": 3343,
+        "description": "The genes are responsible for growth and differentiation in an organism through regulation of :",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13383,
+            "description": "Translocation",
+            "question_id": 3343,
+            "is_correct": false
+        }, {
+            "id": 13384,
+            "description": "Transformation",
+            "question_id": 3343,
+            "is_correct": false
+        }, {
+            "id": 13385,
+            "description": "Transduction and translation",
+            "question_id": 3343,
+            "is_correct": false
+        }, {
+            "id": 13386,
+            "description": "Translation and transcription",
+            "question_id": 3343,
+            "is_correct": true
+        }]
+        
+    }, {
+        "id": 3316,
+        "description": "Genetic information is carried out by long chain molecule made up of :",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13275,
+            "description": "Amino acids",
+            "question_id": 3316,
+            "is_correct": false
+        }, {
+            "id": 13276,
+            "description": "Enzymes",
+            "question_id": 3316,
+            "is_correct": false
+        }, {
+            "id": 13277,
+            "description": "Nucleotides",
+            "question_id": 3316,
+            "is_correct": true
+        }, {
+            "id": 13278,
+            "description": "Histone proteins",
+            "question_id": 3316,
+            "is_correct": false
+            
+        }]
+        
+    }, {
+        "id": 3376,
+        "description": "Anticodons are found in:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13515,
+            "description": "mRNA",
+            "question_id": 3376,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:32.459+05:30",
+            "updated_at": "2024-07-13T23:16:32.459+05:30",
+            "unanswered": false,
+            "photo_url": null
+        }, {
+            "id": 13516,
+            "description": "tRNA",
+            "question_id": 3376,
+            "is_correct": true,
+            "created_at": "2024-07-13T23:16:32.461+05:30",
+            "updated_at": "2024-07-13T23:16:32.461+05:30",
+            "unanswered": false,
+            "photo_url": null
+        }, {
+            "id": 13517,
+            "description": "rRNA",
+            "question_id": 3376,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:32.462+05:30",
+            "updated_at": "2024-07-13T23:16:32.462+05:30",
+            "unanswered": false,
+            "photo_url": null
+        }, {
+            "id": 13518,
+            "description": "In all",
+            "question_id": 3376,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:32.464+05:30",
+            "updated_at": "2024-07-13T23:16:32.464+05:30",
+            "unanswered": false,
+            "photo_url": null
+        }]
+
+    }, {
+        "id": 3302,
+        "description": "Which of the following element is not found in nitrogenous base :",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13219,
+            "description": "Nitrogen",
+            "question_id": 3302,
+            "is_correct": false
+        }, {
+            "id": 13220,
+            "description": "Hydrogen",
+            "question_id": 3302,
+            "is_correct": false
+        }, {
+            "id": 13221,
+            "description": "Carbon",
+            "question_id": 3302,
+            "is_correct": false
+        }, {
+            "id": 13222,
+            "description": "Phosphorus",
+            "question_id": 3302,
+            "is_correct": true
+        }]
+        
+    }, {
+        "id": 3378,
+        "description": "Transfer of genetic information from a polymer of nucleotides to a polymer of amino acids is:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance ",
+        "is_published": true,
+        "options": [{
+            "id": 13523,
+            "description": "Replication",
+            "question_id": 3378,
+            "is_correct": false
+        }, {
+            "id": 13524,
+            "description": "Transcription",
+            "question_id": 3378,
+            "is_correct": false
+        }, {
+            "id": 13525,
+            "description": "Translation",
+            "question_id": 3378,
+            "is_correct": true
+        }, {
+            "id": 13526,
+            "description": "Reverse transcription",
+            "question_id": 3378,
+            "is_correct": false
+        }]
+        
+    }],
+    "progress": 0
+}]
