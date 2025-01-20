@@ -15,6 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 Just a look of App.
+Core Features:
+-> Start Quiz
+-> Questions with multiple-choice answers.
+-> Summary of results upon quiz completion, including total points scored.
 
 <img width="300" alt="Screenshot 2025-01-20 093451" src="https://github.com/user-attachments/assets/b783fd4e-0be9-4227-98b1-61be0613ffb2" />
 <img width="300" alt="Screenshot 2025-01-20 093542" src="https://github.com/user-attachments/assets/b7da8b43-41a3-4948-8b28-ef6642a1fa5d" />
