@@ -20,6 +20,10 @@ Core Features:
 -> Questions with multiple-choice answers.
 -> Summary of results upon quiz completion, including total points scored.
 
-<img width="300" alt="Screenshot 2025-01-20 093451" src="https://github.com/user-attachments/assets/b783fd4e-0be9-4227-98b1-61be0613ffb2" />
-<img width="300" alt="Screenshot 2025-01-20 093542" src="https://github.com/user-attachments/assets/b7da8b43-41a3-4948-8b28-ef6642a1fa5d" />
-<img width="300" alt="Screenshot 2025-01-20 093618" src="https://github.com/user-attachments/assets/7454a58c-da96-4249-9aad-05ca5892e61c" />
+<img width="960" alt="Screenshot 2025-01-28 165400" src="https://github.com/user-attachments/assets/91e669f2-6e28-4aaa-ae97-20ca0b340f80" />
+<img width="250" alt="Screenshot 2025-01-28 165054" src="https://github.com/user-attachments/assets/d7bb7d6a-0ea9-46cc-8a00-20669f4ec8a4" />
+<img width="250" alt="Screenshot 2025-01-28 165108" src="https://github.com/user-attachments/assets/7d79cb1f-349e-4ee4-89c9-bb26224f2f3b" />
+<img width="250" alt="Screenshot 2025-01-28 165254" src="https://github.com/user-attachments/assets/e5fc6016-fbbc-4de7-a285-38dc7abf366d" />
+<img width="250" alt="Screenshot 2025-01-28 165321" src="https://github.com/user-attachments/assets/639e415a-0a21-4fdf-a73e-a2d422acec61" />
+
+
