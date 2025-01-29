@@ -23,7 +23,7 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Future<void> _fetchQuizData() async {
-    const String apiUrl = "https://api.example.com/quiz";
+    const String apiUrl = "https://api.jsonserve.com/Uw5CrX";
     try {
       final response = await http.get(Uri.parse(apiUrl));
       if (response.statusCode == 200) {
